@@ -15,3 +15,6 @@ Como rodar?
 - Execute "docker-compose restart sentry".
 
 * O Sentry agora está em execução na porta pública 9000.
+
+- Execute "php -S localhost:7000"
+* Agora sua aplicação php está rodando
