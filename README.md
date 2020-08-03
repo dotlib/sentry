@@ -19,4 +19,4 @@ Como rodar?
 - Execute "php -S localhost:7000"
 * Agora sua aplicação php está rodando
 
-ALteração nova em local
+ALteração MAISSS nova em local
